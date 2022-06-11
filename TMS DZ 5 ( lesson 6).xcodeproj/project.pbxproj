@@ -13,6 +13,7 @@
 		7409A4B2285383C2002E1EDF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7409A4B0285383C2002E1EDF /* Main.storyboard */; };
 		7409A4B4285383C4002E1EDF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7409A4B3285383C4002E1EDF /* Assets.xcassets */; };
 		7409A4B7285383C4002E1EDF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7409A4B5285383C4002E1EDF /* LaunchScreen.storyboard */; };
+		7441B2F02854A27400063162 /* TMS DZ 5 ( lesson 6) in Resources */ = {isa = PBXBuildFile; fileRef = 7441B2EF2854A27400063162 /* TMS DZ 5 ( lesson 6) */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7409A4B3285383C4002E1EDF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7409A4B6285383C4002E1EDF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7409A4B8285383C4002E1EDF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7441B2EF2854A27400063162 /* TMS DZ 5 ( lesson 6) */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "TMS DZ 5 ( lesson 6)"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		7409A4A9285383C2002E1EDF /* TMS DZ 5 ( lesson 6) */ = {
 			isa = PBXGroup;
 			children = (
+				7441B2EF2854A27400063162 /* TMS DZ 5 ( lesson 6) */,
 				7409A4AA285383C2002E1EDF /* AppDelegate.swift */,
 				7409A4AC285383C2002E1EDF /* SceneDelegate.swift */,
 				7409A4AE285383C2002E1EDF /* ViewController.swift */,
@@ -127,6 +130,7 @@
 			files = (
 				7409A4B7285383C4002E1EDF /* LaunchScreen.storyboard in Resources */,
 				7409A4B4285383C4002E1EDF /* Assets.xcassets in Resources */,
+				7441B2F02854A27400063162 /* TMS DZ 5 ( lesson 6) in Resources */,
 				7409A4B2285383C2002E1EDF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
